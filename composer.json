@@ -1,0 +1,7 @@
+{
+    "require": {
+        "box/spout": "^3.3",
+        "ddeboer/imap": "^1.12",
+        "benhall14/php-imap-reader": "^1.4"
+    }
+}
